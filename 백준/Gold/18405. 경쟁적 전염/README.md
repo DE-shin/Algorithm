@@ -24,7 +24,7 @@
 
 <p>예를 들어 다음과 같이 3x3 크기의 시험관이 있다고 하자. 서로 다른 1번, 2번, 3번 바이러스가 각각 (1,1), (1,3), (3,1)에 위치해 있다. 이 때 2초가 지난 뒤에 (3,2)에 존재하는 바이러스의 종류를 계산해보자.</p>
 
-<p style="text-align: center;"><img alt="" src="" style="height: 148px; width: 250px;"></p>
+<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/02958527-debb-46e3-a56d-79b87ad46d03/-/preview/" style="height: 148px; width: 250px;"></p>
 
 <p style="text-align: justify;">1초가 지난 후에 시험관의 상태는 다음과 같다.</p>
 
